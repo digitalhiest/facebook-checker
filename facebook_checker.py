@@ -8,7 +8,7 @@ def display_logo():
 def display_usage():
     usage = """
     Usage:
-    python script_name.py app_id app_secret
+    python facebook_checker.py app_id app_secret
     """
     print(Fore.RED + usage)
 
